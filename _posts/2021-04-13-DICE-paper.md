@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
+title:  "Disentangling User Interest and Conformity for Recommendation with Causal Embedding (DICE)"
 ---
-
-# Disentangling User Interest and Conformity for Recommendation with Causal Embedding (DICE)
 
 __Date read:__ 13/04/2021
 
