@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Survival Analysis Part I: Basic concepts and first analyses"
 ---
+
+# Survival Analysis Part I: Basic concepts and first analyses
 
 __Date read:__ 01/06/2021
 
