@@ -9,7 +9,7 @@ I'm currently working as a data scientist at Spotify alongside volunteering with
 #### Articles, notes & code
 
 - [Articles / Papers](https://danielhills.github.io/articles)
-- [Snippets](https://danielhills.github.io/snippets)
+- [Code snippets](https://danielhills.github.io/snippets)
 - [Notes](https://danielhills.github.io/notes)
 
 ---
