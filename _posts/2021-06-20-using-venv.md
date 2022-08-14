@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  "Common venv commands in Python"
 ---
+
+# Common venv commands in Python
 
 __June 2021__
 
