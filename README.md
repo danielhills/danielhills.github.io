@@ -4,6 +4,8 @@ I'm Dan and this is my website. It exists to store my notes, code snippets & oth
 
 I'm currently working as a data scientist at Spotify alongside volunteering with the [LCC](https://lcc.org.uk/) to better [identify dangerous junctions](https://github.com/danielhills/lcc-dangerous-junctions) in London for cyclists & pedestrians. The rest of the time I'm riding my bike.
 
+---
+
 #### Notes & code
 
 - [Snippets](https://danielhills.github.io/snippets)
