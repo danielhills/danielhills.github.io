@@ -19,10 +19,3 @@ I'm currently working as a data scientist at Spotify alongside volunteering with
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1528997/latest-rides/9bf815eeea64899a34f8767fd45d0ef3ab15e6e4'></iframe>
 
----
-
-#### Embed test
-
-<iframe src="https://danielhills-lcc-dangerous-junctions-app-b63snl.streamlitapp.com" width="600" height="600">
-  <p>Your browser does not support iframes.</p>
-</iframe>
