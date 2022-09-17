@@ -17,5 +17,5 @@ I'm currently working as a data scientist at Spotify alongside volunteering with
 
 #### Strava..
 
-<iframe height='300' width='500' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/1528997/latest-rides/9bf815eeea64899a34f8767fd45d0ef3ab15e6e4'></iframe>
+<iframe height='454' width='500' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1528997/latest-rides/9bf815eeea64899a34f8767fd45d0ef3ab15e6e4'></iframe>
 
