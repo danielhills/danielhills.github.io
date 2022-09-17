@@ -11,6 +11,7 @@ I'm currently working as a data scientist at Spotify alongside volunteering with
 - [Articles / Papers](https://danielhills.github.io/articles)
 - [Code snippets](https://danielhills.github.io/snippets)
 - [Notes](https://danielhills.github.io/notes)
+- [LCC stuff](https://danielhills.github.io/lcc)
 
 ---
 
