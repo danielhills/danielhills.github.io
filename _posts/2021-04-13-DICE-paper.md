@@ -4,7 +4,7 @@ layout: default
 
 ### Disentangling User Interest and Conformity for Recommendation with Causal Embedding (DICE)
 
-__Date read:__ 13/04/2021
+__Date read:__ `2021-04-13`
 
 __Paper:__ https://arxiv.org/pdf/2006.11011.pdf
 
