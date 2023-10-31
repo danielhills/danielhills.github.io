@@ -4,7 +4,7 @@ layout: default
 
 # Common venv commands in Python
 
-__June 2021__
+`2021-06-20`
 
 Useful set of terminal commands for when using virtualenvs in Python. These cover about 99% of my use of venvs.
 
