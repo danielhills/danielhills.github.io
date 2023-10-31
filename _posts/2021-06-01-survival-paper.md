@@ -4,7 +4,7 @@ layout: default
 
 # Survival Analysis Part I: Basic concepts and first analyses
 
-__Date read:__ 01/06/2021
+__Date read:__ `2021-06-01`
 
 __Paper:__ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2394262/pdf/89-6601118a.pdf
 
