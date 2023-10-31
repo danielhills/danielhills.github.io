@@ -13,12 +13,14 @@ This website exists to store my writing, personal projects & other bits.
 
 #### London Cycling Campaign
 
-- TODO
+- [Dangerous Junctions Tool]
+- [Blogpost]
+- [Technical article]
 
 #### Code snippets & notes
 
-- [DICE paper](https://danielhills.github.io/2021/04/13/DICE-paper)
-- [Survival analysis paper](https://danielhills.github.io/2021/06/01/survival-paper)
 - [Common venv commands](https://danielhills.github.io/2021/06/20/using-venv)
 - [Seaborn palettes](https://danielhills.github.io/2022/08/14/palettes)
-- \+ more snippets [here](https://github.com/danielhills/code-snippets)
+- [Snippets repo](https://github.com/danielhills/code-snippets)
+- [DICE paper](https://danielhills.github.io/2021/04/13/DICE-paper)
+- [Survival analysis paper](https://danielhills.github.io/2021/06/01/survival-paper)
