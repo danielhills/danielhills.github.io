@@ -13,9 +13,8 @@ This website exists to store my writing, personal projects & other bits.
 
 ### London Cycling Campaign
 
-- [Dangerous Junctions Tool]
-- [Blogpost]
-- [Technical article]
+- [Dangerous Junctions Tool](https://lcc-dangerous-junctions.streamlit.app/) (streamlit app)
+- [GitHub repo](https://github.com/londoncyclingcampaign/lcc-dangerous-junctions)
 
 ### Code snippets & notes
 
