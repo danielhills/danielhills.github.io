@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Daniel Hills
 description: 🚴·💻·📓·📈
 logo: logo.png
+
+social_links: true
+email: danieljahills@gmail.com
+github: danielhills
+linkedin: danieljahills
