@@ -4,6 +4,8 @@ I'm Dan, a data scientist based in London. I'm currently working at Spotify alon
 
 This website exists to store my writing, personal projects & other bits.
 
+**Contact / social** - [personal email](mailto:danieljahills@gmail.com) | [LCC email](mailto:djmapping@lcc.org.uk) | [github](https://github.com/danielhills) | [linkedin](https://www.linkedin.com/in/danieljahills/) | [strava](https://www.strava.com/athletes/1528997)
+
 ---
 
 ### Articles & papers
@@ -24,9 +26,3 @@ This website exists to store my writing, personal projects & other bits.
 - [Snippets repo](https://github.com/danielhills/code-snippets)
 - [DICE paper](https://danielhills.github.io/2021/04/13/DICE-paper)
 - [Survival analysis paper](https://danielhills.github.io/2021/06/01/survival-paper)
-
----
-
-### Contact
-
-Reach me via my personal [email](mailto:danieljahills@gmail.com), or [djmapping@lcc.org.uk](mailto:djmapping@lcc.org.uk) for any LCC specific questions.
