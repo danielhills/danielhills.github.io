@@ -3,7 +3,7 @@ title: Daniel Hills
 description: 🚴·💻·📓·📈
 logo: logo.png
 
-social_links: true
-email: danieljahills@gmail.com
-github: danielhills
-linkedin: danieljahills
+social_links:
+  email: danieljahills@gmail.com
+  github: danielhills
+  linkedin: danieljahills
