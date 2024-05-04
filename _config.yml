@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Daniel Hills
-description: 🚴·💻·📓·📈
+description: <a href="mailto:danieljahills@gmail.com" title="Facebook"><i class="fa fa-envelope-square"></i></a>
 logo: logo.png
 
 social_links: true
