@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Daniel Hills
-description:
+description: .
 logo: logo.png
 social_links: true
+
+github: 123
